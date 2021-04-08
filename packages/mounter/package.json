@@ -12,5 +12,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "61adf3ae92932a8db1c504310562abaf979d4d38"
+  "gitHead": "61adf3ae92932a8db1c504310562abaf979d4d38",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -13,5 +13,8 @@
     "@mfel/loader": "^0.0.1-alpha.0+61adf3a",
     "universal-router": "^9.0.1"
   },
-  "gitHead": "61adf3ae92932a8db1c504310562abaf979d4d38"
+  "gitHead": "61adf3ae92932a8db1c504310562abaf979d4d38",
+  "publishConfig": {
+    "access": "public"
+  }
 }
