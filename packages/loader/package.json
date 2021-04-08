@@ -1,0 +1,16 @@
+{
+  "name": "@mfel/loader",
+  "version": "0.0.1-alpha.0+61adf3a",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "reactApp.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "61adf3ae92932a8db1c504310562abaf979d4d38"
+}
