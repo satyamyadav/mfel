@@ -2,9 +2,10 @@
   "name": "@mfel/shell",
   "version": "0.0.1-alpha.0+61adf3a",
   "description": "",
-  "main": "root.js",
+  "main": "dist/index.umd.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf ./dist"
   },
   "keywords": [],
   "author": "",
