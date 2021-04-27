@@ -1,6 +1,6 @@
 {
   "name": "@mfel/mounter",
-  "version": "0.0.1-alpha.0+61adf3a",
+  "version": "1.0.0-alpha.0",
   "description": "",
   "main": "dist/index.umd.js",
   "files": [

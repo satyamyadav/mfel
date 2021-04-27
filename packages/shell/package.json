@@ -1,6 +1,6 @@
 {
   "name": "@mfel/shell",
-  "version": "0.0.1-alpha.0+61adf3a",
+  "version": "1.0.0-alpha.0",
   "description": "",
   "main": "dist/index.umd.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mfel/loader": "^0.0.1-alpha.0+61adf3a",
+    "@mfel/loader": "^1.0.0-alpha.0",
     "universal-router": "^9.0.1"
   },
   "gitHead": "61adf3ae92932a8db1c504310562abaf979d4d38",
